@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+}
+#header{
+    background-color: rgb(204, 174, 186);
+    height: 10vh;
+    width: 100%;
+    padding-top: 5px;
+    padding-left: 15px;
+    
+}
+.blue{
+    background: #303956;
+}
+#header #blue-box{
+    height: 90%;
+    width: 50px;
+}
+
+#white-box{
+    height: 30vh;
+    width: 86%;
+    margin: 0 auto;
+}
+
+#blue-bar{
+    width: 100%;
+    height: 15vh;
+}
+#green-bar{
+    width: 100%;
+    height: 15vh;
+    background-color: #A74C65;
+}
+#lime-bar{
+    width: 100%;
+    height: 15vh;
+    background-color: #866F8D;
+}
+#yellow-bar{
+    width: 100%;
+    height: 15vh;
+    background-color: #3E6294;
+}
